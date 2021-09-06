@@ -1,0 +1,2 @@
+C:\Users\colen\source\repos\SnakeGameComplete\Debug\SnakeGameComplete.exe
+C:\Users\colen\source\repos\SnakeGameComplete\Debug\SnakeGameComplete.pdb
